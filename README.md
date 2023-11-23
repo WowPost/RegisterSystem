@@ -1,15 +1,14 @@
 ![home](https://github.com/WowPost/RegisterSystem/assets/150549548/7081736b-0c61-438b-824d-dd59ff765cb0)
 ![users](https://github.com/WowPost/RegisterSystem/assets/150549548/dd989a64-423d-4d03-a8a9-808098aa856c)
 
-
 # Register System
 
 This is a simple Django project to get started in Django studies. It's a simple form to input and display user data.
 
 ## Getting Started
 
-This project is aimed at Debian based distros, but other Unix based distros users, Windows and Mac should be able to follow, with some command changes specific to each OS.
-You can also grab a copy of a Debian based distro and start running it on a Virtual Machine. Setting up a VM is not on the scope of this tutorial.
+This project is aimed at Debian based distros but other Unix based distros, Windows and Mac users should be able to follow, with some command changes 
+specific to each OS. You can also grab a copy of a Debian based distro and start running it on a Virtual Machine. Setting up a VM is not on the scope of this tutorial.
 
 ### Prerequisites
 
@@ -40,7 +39,7 @@ Then:
 ```
 Move to WowPost/RegisterSystem and run the pip install pipenv here.
 Move to WowPost/RegisterSystem/RegisterSystem where manage.py file is located. This is the root directory of the project.
-Here, run: pip install -r  pip install -r requirements.txt
+Here, run: pip install -r requirements.txt
 ```
 
 Finally:
@@ -50,5 +49,6 @@ To set the configurations: python manage.py makemigrations
 To apply the saved configurations: python manage.py migrate
 ```
 Your project should display the images above.
-### 
+
+### J
 
